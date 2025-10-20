@@ -1,0 +1,11 @@
+C:\Users\Test\Desktop\Сетевое програмирование\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\Test\Desktop\Сетевое програмирование\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\Test\Desktop\Сетевое програмирование\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\Test\Desktop\Сетевое програмирование\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Сетевое програмирование\ChatServer\obj\Debug\ChatServer.Form1.resources
+C:\Users\Test\Desktop\Сетевое програмирование\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+C:\Users\Test\Desktop\Сетевое програмирование\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+C:\Users\Test\Desktop\Сетевое програмирование\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Сетевое програмирование\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\Test\Desktop\Сетевое програмирование\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\Test\Desktop\Сетевое програмирование\ChatServer\obj\Debug\ChatServer.exe.config
